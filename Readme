@@ -1,4 +1,4 @@
-<h1>Madagascar Population Visualization (2020)<h1/>
+<h1> Madagascar Population Visualization (2020)</h1>
 This project aims to visualize population data from Madagascar in 3D using a publicly available dataset. The visualization is created using R, leveraging various libraries for data processing, spatial analysis, and rendering.
 
 Project Overview
