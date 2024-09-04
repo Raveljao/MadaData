@@ -21,4 +21,4 @@ To run this code, you need to have the following R packages installed:
 - **png**: For handling PNG files.
 
 ## Data sources
-https://hub.worldpop.org/
+[https://hub.worldpop.org/](https://hub.worldpop.org/geodata/summary?id=37337)
